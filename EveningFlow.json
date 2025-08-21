@@ -5,7 +5,7 @@
       "name": "Warmup",
       "duration": 300,
       "videoUrl": "https://youtu.be/OhowZLC9WF0?si=mTyFq6hRPuq2nNim",
-      "imageUrl": "htttps://image.png"
+      "imageUrl": "https://res.cloudinary.com/<cloud_name>/image/upload/v1724233215/myphoto.jpg"
     },
     {
       "name": "Sun Salutations",
@@ -16,6 +16,7 @@
   ],
   "notes": "Gentle start"
 }
+
 
 
 
