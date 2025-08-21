@@ -5,17 +5,18 @@
       "name": "Warmup",
       "duration": 300,
       "videoUrl": "https://youtu.be/OhowZLC9WF0?si=mTyFq6hRPuq2nNim",
-      "imageUrl": ""
+      "imageUrl": "htttps://image.png"
     },
     {
       "name": "Sun Salutations",
       "duration": 600,
       "videoUrl": "https://youtu.be/1xRX1MuoImw?si=mm4Bx1JWgzcJy2ST",
-      "imageUrl": ""
+      "imageUrl": "htttps://image.png"
     }
   ],
   "notes": "Gentle start"
 }
+
 
 
 
