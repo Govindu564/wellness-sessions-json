@@ -1,0 +1,8 @@
+{
+  "title": "Morning Flow",
+  "sections": [
+    {"name": "Warmup", "duration": 300},
+    {"name": "Sun Salutations", "duration": 600}
+  ],
+  "notes": "Gentle start"
+}
