@@ -4,18 +4,19 @@
     {
       "name": "Warmup",
       "duration": 300,
-      "videoUrl": "https://youtu.be/OhowZLC9WF0?si=mTyFq6hRPuq2nNim",
-      "imageUrl": "https://res.cloudinary.com/<cloud_name>/image/upload/v1724233215/myphoto.jpg"
+      "videoUrl": "https://res.cloudinary.com/dxz6etubk/video/upload/v1755781455/5_minute_Warm_Up_Routine___Do_this_before_ANY_workout_a6kfbb.mp4",
+      "imageUrl": "https://res.cloudinary.com/dxz6etubk/image/upload/v1755782020/yoga1_fyyw1n.jpg"
     },
     {
       "name": "Sun Salutations",
       "duration": 600,
-      "videoUrl": "https://res.cloudinary.com/dxz6etubk/video/upload/v1755781455/5_minute_Warm_Up_Routine___Do_this_before_ANY_workout_a6kfbb.mp4",
-      "imageUrl": "htttps://image.png"
+      "videoUrl": "https://res.cloudinary.com/dxz6etubk/video/upload/v1755781989/STEP_BY_STEP_SURYA_NAMASKAR_FOR_BEGINNERS___Learn_Sun_Salutation_In_3_Minutes__Simple_Yoga_Lessons_k3gaes.mp4",
+      "imageUrl": "https://res.cloudinary.com/dxz6etubk/image/upload/v1755782135/Sun_Salutations_ltmxdc.jpg"
     }
   ],
   "notes": "Gentle start"
 }
+
 
 
 
