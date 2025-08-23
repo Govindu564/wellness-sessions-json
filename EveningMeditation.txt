@@ -1,0 +1,9 @@
+{
+  "title": "Evening Meditation Flow",
+  "sections": [
+    { "name": "Mindful Breathing", "duration": 300 },
+    { "name": "Gratitude Reflection", "duration": 420 },
+    { "name": "Loving-Kindness Meditation", "duration": 600 }
+  ],
+  "notes": "Helps release stress and promote peaceful sleep."
+}

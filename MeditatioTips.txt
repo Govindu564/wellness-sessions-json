@@ -1,0 +1,9 @@
+{
+  "title": "Morning Meditation Flow",
+  "sections": [
+    { "name": "Breathing Awareness", "duration": 300 },
+    { "name": "Body Scan Relaxation", "duration": 600 },
+    { "name": "Mantra Repetition", "duration": 480 }
+  ],
+  "notes": "A calm start to the day with breath, body awareness, and focus."
+}
